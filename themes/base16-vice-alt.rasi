@@ -1,19 +1,19 @@
 /**
- * Base16 Da One Ocean ROFI Color theme
+ * Base16 Vice Alt ROFI Color theme
  *
  * Authors
- *  Scheme: NNB (https://github.com/NNBnh)
+ *  Scheme: Thomas Leon Highbaugh
  *  Template: Jordi Pakey-Rodriguez (https://github.com/0xdec), Andrea Scarpino (https://github.com/ilpianista)
  */
 
 * {
-    red:                         rgba ( 250, 120, 131, 100 % );
-    blue:                        rgba ( 107, 184, 255, 100 % );
-    lightfg:                     rgba ( 255, 255, 255, 100 % );
-    lightbg:                     rgba ( 34, 39, 61, 100 % );
-    foreground:                  rgba ( 255, 255, 255, 100 % );
-    background:                  rgba ( 23, 23, 38, 100 % );
-    background-color:            rgba ( 23, 23, 38, 0 % );
+    red:                         rgba ( 255, 61, 129, 100 % );
+    blue:                        rgba ( 47, 177, 212, 100 % );
+    lightfg:                     rgba ( 178, 191, 217, 100 % );
+    lightbg:                     rgba ( 40, 43, 54, 100 % );
+    foreground:                  rgba ( 85, 94, 112, 100 % );
+    background:                  rgba ( 27, 29, 36, 100 % );
+    background-color:            rgba ( 27, 29, 36, 0 % );
     separatorcolor:              @foreground;
     border-color:                @foreground;
     selected-normal-foreground:  @lightbg;
