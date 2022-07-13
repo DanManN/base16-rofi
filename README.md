@@ -1,4 +1,4 @@
-| This is a fork of [jordiorlando](https://github.com/jordiorlando)'s [base16-rofi](https://github.com/jordiorlando/base16-rofi) which refreshes and commits new themes weekly via a github workflow based on [fnune](https://github.com/fnune)'s workflow for [base16-shell](https://github.com/fnune/base16-shell). |
+| This is a fork of [jordiorlando](https://github.com/jordiorlando)'s [base16-rofi](https://github.com/jordiorlando/base16-rofi) which refreshes and commits new themes weekly via a github workflow based on [JamyGolden](https://github.com/JamyGolden)'s workflow for [base16-shell](https://github.com/base16-project/base16-shell). |
 | --- |
 
 base16-rofi
