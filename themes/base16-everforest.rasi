@@ -1,19 +1,19 @@
 /**
- * Base16 EverForest ROFI Color theme
+ * Base16 Everforest ROFI Color theme
  *
  * Authors
- *  Scheme: sainnhe
+ *  Scheme: Sainnhe Park (https://github.com/sainnhe)
  *  Template: Jordi Pakey-Rodriguez (https://github.com/0xdec), Andrea Scarpino (https://github.com/ilpianista)
  */
 
 * {
-    red:                         rgba ( 230, 126, 128, 100 % );
-    blue:                        rgba ( 127, 187, 179, 100 % );
-    lightfg:                     rgba ( 233, 232, 210, 100 % );
-    lightbg:                     rgba ( 50, 60, 65, 100 % );
+    red:                         rgba ( 127, 187, 179, 100 % );
+    blue:                        rgba ( 167, 192, 128, 100 % );
+    lightfg:                     rgba ( 228, 225, 205, 100 % );
+    lightbg:                     rgba ( 55, 66, 71, 100 % );
     foreground:                  rgba ( 211, 198, 170, 100 % );
-    background:                  rgba ( 43, 51, 57, 100 % );
-    background-color:            rgba ( 43, 51, 57, 0 % );
+    background:                  rgba ( 47, 56, 62, 100 % );
+    background-color:            rgba ( 47, 56, 62, 0 % );
     separatorcolor:              @foreground;
     border-color:                @foreground;
     selected-normal-foreground:  @lightbg;
